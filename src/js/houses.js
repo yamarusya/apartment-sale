@@ -29,7 +29,7 @@ function a() {
   });
 }
 function seemore() {
-  console.log("!")
+  //
 }
    const button = document.querySelector('input');
 button.addEventListener("keyup", a);
